@@ -10,7 +10,8 @@ Focused on fintech regulation, industry policy, and AI applications.
 - 🔴 Lifelong Evangelion fan. AT Field up. Angels stay back.
 
 ## Projects
-- 📡 [Outpost](https://outpost.mitch.tw) — AI-powered Taiwan news monitoring, 8 categories, delivered to Telegram
+- 📡 [Outpost](https://outpost.mitch.tw) — AI-curated Taiwan news briefing
+- 🔍 [SocialBuddy](https://github.com/chenmitchell/social-buddy-release) — Chrome extension for backing up social media posts locally
 
 ## Find Me
 - 🌐 [mitch.tw](https://mitch.tw)
